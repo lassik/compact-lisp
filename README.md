@@ -30,7 +30,7 @@ The goals of Compact Lisp are as follows.
 * Lisp-2.
 * Lexical and dynamic variables.
 * Lexical closures.
-* signal, error, handler-case, unwind-protect.
+* error, handler-case, unwind-protect.
 * Symbols and keywords.
 * Symbol packages.
 * Optional, rest, and keyword arguments.
